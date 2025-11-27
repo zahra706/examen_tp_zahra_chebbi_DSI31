@@ -1,7 +1,7 @@
-#🌍 Atlas Géographique - Zahra
+# 🌍 Atlas Géographique - Zahra
 Atlas Géographique est une application mobile développée avec Flutter qui permet d'explorer et de découvrir les pays du monde avec leurs informations détaillées.
 
-#📱 Fonctionnalités
+# 📱 Fonctionnalités
 Écran d'Accueil : Interface de bienvenue avec un globe terrestre
 
 Liste des Pays : Affichage de tous les pays avec leurs drapeaux
@@ -12,8 +12,8 @@ Navigation Intuitive : Menu latéral avec navigation facile
 
 Design Responsive : Interface adaptée à tous les écrans
 
-#🏗️ Architecture de l'Application
-##Écrans Principaux
+# 🏗️ Architecture de l'Application
+## Écrans Principaux
 WelcomePage (welcome_page.dart)
 
 AppBar avec titre "Atlas Géographique"
@@ -46,7 +46,7 @@ class Country {
   String language;
   String code;
 }
-#🛠️ Technologies Utilisées
+# 🛠️ Technologies Utilisées
 Flutter - Framework de développement cross-platform
 
 Dart - Langage de programmation
@@ -55,7 +55,7 @@ Material Design - Design system
 
 Assets Locaux - Images et drapeaux
 
-#📁 Structure du Projet
+# 📁 Structure du Projet
 text
 atlas_geo_zahra/
 ├── lib/
@@ -77,7 +77,7 @@ atlas_geo_zahra/
 │       └── usa.png
 ├── pubspec.yaml
 └── README.md
-#🚀 Installation et Exécution
+# 🚀 Installation et Exécution
 Prérequis
 Flutter SDK installé
 
@@ -130,10 +130,10 @@ Gestion des assets locaux
 
 Structure de données modulaire
 
-👨‍🏫 Contexte Pédagogique
+# 👨‍🏫 Contexte Pédagogique
 Ce projet a été développé dans le cadre de l'examen de Développement Mobile Cross-Plateforme sous la supervision de l'enseignant Wahid Hamdi.
 
-👩‍💻 Développeur
+# 👩‍💻 Développeur
 Nom : Zahra
 
 Projet : Atlas Géographique
