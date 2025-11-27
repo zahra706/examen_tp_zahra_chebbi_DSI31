@@ -88,7 +88,7 @@ Android Studio / VS Code
 Commandes d'Installation
 bash
 ### Cloner le repository
-git clone <votre-repo>
+git clone https://github.com/zahra706/examen_tp_zahra_chebbi_DSI31.git
 
 ### Se déplacer dans le dossier du projet
 cd atlas_geo_zahra
